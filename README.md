@@ -14,9 +14,19 @@ Bot Commands
   <tbody>
   
     <tr>
-      <td>9gag.lua</td>
-      <td>9GAG for telegram</td>
-      <td>!9gag: Send random image from 9gag</td>
+      <td>Calculator.lua</td>
+      <td>Calculate math expressions with mathjs API</td>
+      <td>!calc [expression]: evaluates the expression and sends the result.</td>
+    </tr>
+        <tr>
+      <td>Google.lua</td>
+      <td>Searches Google and send results</td>
+      <td>!google [terms]: Searches Google and send results</td>
+    </tr>
+        <tr>
+      <td>GPS.lua</td>
+      <td>generates a map showing the given GPS coordinates</td>
+      <td>!gps latitude,longitude: generates a map showing the given GPS coordinates</td>
     </tr>
     
     <tr>
