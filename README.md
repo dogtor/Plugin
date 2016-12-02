@@ -75,6 +75,46 @@ Bot Commands
 !plugins reload: reloads all plugins.</td>
     </tr>
     <tr>
+      <td>search_youtube.lua</td>
+      <td>Search video on YouTube and send it.</td>
+      <td>!youtube [term]: Search for a YouTube video and send it.</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td></td>
       <td></td>
       <td></td>
