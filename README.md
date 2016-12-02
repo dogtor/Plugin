@@ -80,34 +80,40 @@ Bot Commands
       <td>!youtube [term]: Search for a YouTube video and send it.</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>time.lua</td>
+      <td>Displays the local time in an area</td>
+      <td>!time [area]: Displays the local time in that area</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>translate.lua</td>
+      <td>Translate some text</td>
+      <td>!translate text. Translate the text to English.
+!translate target_lang text.
+!translate source,target text</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>vote.lua</td>
+      <td>Plugin for voting in groups.</td>
+      <td>!voting reset: Reset all the votes.
+!vote [number]: Cast the vote.
+!voting stats: Shows the statistics of voting.</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>weather.lua</td>
+      <td>weather in that city (Madrid is default)</td>
+      <td>!weather (city)</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>webshot.lua</td>
+      <td>Take an screenshot of a web.</td>
+      <td>!webshot [url]</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>wiki.lua</td>
+      <td>Searches Wikipedia and send results</td>
+      <td>!wiki [terms]: Searches wiki and send results
+!wiki_set [wiki]: sets the wikimedia site for this chat
+!wiki_get: gets the current wikimedia site</td>
     </tr>
     <tr>
       <td></td>
