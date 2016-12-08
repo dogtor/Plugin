@@ -116,7 +116,7 @@ Bot Commands
 !wiki_get: gets the current wikimedia site</td>
     </tr>
     <tr>
-      <td></td>
+      <td>Spammer.lua</td>
       <td></td>
       <td></td>
     </tr>
